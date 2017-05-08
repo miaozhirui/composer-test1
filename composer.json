@@ -1,0 +1,11 @@
+{
+    "name": "miaozhirui/composer-test1",
+    "description": "a test project",
+    "authors": [
+        {
+            "name": "mzr",
+            "email": "1078142728@qq.com"
+        }
+    ],
+    "require": {}
+}
